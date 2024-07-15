@@ -2,7 +2,7 @@
 
 ### **Pillars of ML**
     - Ref: [Mathematics for Machine Learning](https://drive.google.com/drive/u/1/folders/12v0Wl8Wcs-zuNutJwP39Yf4ZuU7ie3bk) - Very recommended to study and prepare sessions from -
-    - (Mathematics for Machine Learning, tubingen)[http://www.tml.cs.uni-tuebingen.de/teaching/2020_maths_for_ml/index.php]
+    - [Mathematics for Machine Learning, tubingen](http://www.tml.cs.uni-tuebingen.de/teaching/2020_maths_for_ml/index.php)
 
 1. **Linear Algebra**
     - [Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://www.youtube.com/playlist?list=PLFBPgxvkodCqCTVN0isaSA6S--hSTFgEw)
@@ -24,7 +24,7 @@
 
 **General Deep Learning Resources**
 
-    - [Deep Learning (STAT 940) , Fall 2023](https://www.youtube.com/playlist?list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz)  (recommended)
+    - [Deep Learning (STAT 940) , Fall 2023](https://www.youtube.com/playlist?list=PLehuLRPyt1HxuYpdlW4KevYJVOSDG3DEz)
 
     - [Introduction to Deep Learning, Lecture Slides CSC421](https://www.cs.toronto.edu/~rgrosse/courses/csc421_2019/slides/lec17.pdf)    
     - [Geoffrey Hinton's Neural Networks and Machine Learning, CSC2515](http://www.cs.toronto.edu/~hinton/csc2515/lectures.html)
@@ -39,7 +39,7 @@
 
 **General Resources**
 
-    - [Deep Generative Models, Stanford Course Website](https://deepgenerativemodels.github.io/)  (recommended)
+    - [Deep Generative Models, Stanford Course Website](https://deepgenerativemodels.github.io/)
     
     - [Deep Generative Models, Cornell CS 6785](https://kuleshov-group.github.io/dgm-website/)
 
@@ -60,7 +60,7 @@
     - [Deep Learning NYU website 2023](https://nyu-ds1003.github.io/spring2023)
     - [Deep Learning NYU website 2022](https://nyu-ds1003.github.io/spring2022)
 
-    - [Deep Learning NYU, Yann LeCun 2021](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI) (recommended)
+    - [Deep Learning NYU, Yann LeCun 2021](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
     - [Notes, NYU](https://atcold.github.io/NYU-DLSP21/)                                                             
 
     - [Deep Learning NYU, Yann LeCun 2020](https://www.youtube.com/playlist?list=PL80I41oVxglKcAHllsU0txr3OuTTaWX2v)
@@ -85,7 +85,7 @@
 ### **Robotics**
 
 **Courses and Lectures**
-    - (CS 287: Advanced Robotics)[https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/]
+    - [CS 287: Advanced Robotics](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa19/)
 
 ### **Additional Courses**
 
