@@ -32,7 +32,7 @@
 - [CS231n Convolutional Neural Networks for Visual Recognition, 2019](https://cs231n.github.io/convolutional-networks/)
 - [CS231n Convolutional Neural Networks for Visual Recognition, Lecture Slides 2019](https://cs231n.stanford.edu/slides/2019/cs231n_2019_lecture09.pdf)
 - [CS224n Natural Language Processing with Deep Learning, Lecture 8 2017](https://web.stanford.edu/class/archive/cs/cs224n/cs224n.1174/lectures/cs224n-2017-lecture8.pdf)
-- Ref: *Pattern Recognition and Machine Learning* by Bishop
+- Ref: *Foundation of Deep Learning* by Bishop
 
 ### **Generative AI**
 
