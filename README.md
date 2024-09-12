@@ -57,6 +57,16 @@
 - [Deep Learning NYU, Yann LeCun 2020](https://www.youtube.com/playlist?list=PL80I41oVxglKcAHllsU0txr3OuTTaWX2v)
 - [Notes, NYU](https://atcold.github.io/NYU-DLSP20/)
 
+### **Geometric Deep Learning**
+
+**General Resources**
+- []()
+- []()
+- []()
+- []()
+- []()
+- Ref: **
+
 ### **Reinforcement Learning (RL)**
 
 **Courses and Lectures**
@@ -90,3 +100,30 @@
 ### **General Resources**
 
 - [Drive, 2023-2024](https://drive.google.com/drive/folders/1mzKbwQqcmnHtWFjP-44dCEV88G-7HtZS?usp=drive_link)
+
+### **Mathematics**
+
+1. **Anatomy of Geometrical physics**
+- []()
+- []()
+- Ref: **
+
+2. **Real Analysis**
+- []()
+- []()
+- Ref: **
+
+3. **Measure Theory**
+- []()
+- []()
+- Ref: **
+
+4. **Statical Learning Theory**
+- []()
+- []()
+- Ref: **
+
+5. **Function Analysis**
+- []()
+- []()
+- Ref: **
